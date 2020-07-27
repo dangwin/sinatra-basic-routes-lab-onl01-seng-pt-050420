@@ -9,16 +9,11 @@ end
 
   get '/hometown' do
     
-  "My name is John"
+  "My hometown is "
 end 
   
   
-    get '/name' do
-    
-  "My name is John"
-end 
-  
-  
+
   
   
 end
